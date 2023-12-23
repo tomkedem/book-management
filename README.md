@@ -28,3 +28,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 # npm install @ngrx/store@16.2 @ngrx/effects@16.2
+
+# ng generate interface model/book
+
+# ng generate interface app.state
