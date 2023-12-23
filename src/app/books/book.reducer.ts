@@ -4,7 +4,7 @@ import { Book } from "../model/book";
 
 export const initialState: ReadonlyArray<Book> = [];
 
-export const BookReduser = createReducer (
+export const BookReducer = createReducer (
     initialState
 )
     
