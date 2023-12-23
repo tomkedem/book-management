@@ -32,3 +32,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 # ng generate interface model/book
 
 # ng generate interface app.state
+
+# ng g c book-list
