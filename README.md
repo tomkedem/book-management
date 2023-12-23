@@ -36,3 +36,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 # ng g c book-list
 
 # ng g service books/book
+
+# angular ngrx devtools chrome (search in google)
+# https://chromewebstore.google.com/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd
+
+#  npm install @ngrx/store-devtools@16.2.0 
